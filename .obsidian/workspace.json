@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,13 +192,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "0736488f1e463938",
+  "active": "ff81f4c7916d2470",
   "lastOpenFiles": [
-    "Welcome.md",
     "Introduction to Particles/The 「は」keyword.md",
+    "Welcome.md",
     "Pasted image 20251230214252.png",
     "Introduction to Particles/The　「を」keyword.md",
     "Introduction to Particles/The 「に」keyword.md",
